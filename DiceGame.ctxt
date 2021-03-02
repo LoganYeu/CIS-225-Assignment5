@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DiceGame
+comment1.params=targetNumber\ dieType\ howManyDice
+comment1.target=DiceGame(int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DiceGame\n
+comment2.params=array\ element
+comment2.target=boolean\ contains(int[],\ int)
+comment2.text=\n\ Method\ that\ checks\ to\ see\ if\ elements\ are\ in\ a\ array\n\n\ @param\ \ array\ and\ element\n\ @return\ true\ or\ false\n
+comment3.params=
+comment3.target=void\ playGame()
+comment3.text=\n\ Method\ to\ play\ the\ game.\ Rolls\ dice\ and\ prints\ the\ amount\ of\ targets\ hit\n\ or\ if\ the\ roll\ was\ a\ bust.\ \n
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Die
+comment1.params=max
+comment1.target=Die(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Die\n
+comment2.params=
+comment2.target=int\ rollDie()
+comment2.text=\n\ rolls\ the\ die\ randomly\ and\ adds\ 1\ if\ the\ roll\ is\ equal\ to\ the\ max,\ which\ is\ also\ the\ type\ of\ die\ used\n\ \n\ @return\ runningTotal;\n
+numComments=3
